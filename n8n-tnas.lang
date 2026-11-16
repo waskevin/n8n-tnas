@@ -1,0 +1,97 @@
+[en-us]
+name = "n8n"
+auth = "waskevin"
+descript = "A self-hosted workflow automation tool for connecting services and automating tasks."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[zh-cn]
+name = "n8n"
+auth = "waskevin"
+descript = "A self-hosted workflow automation tool for connecting services and automating tasks."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[zh-hk]
+name = "n8n"
+auth = "waskevin"
+descript = "A self-hosted workflow automation tool for connecting services and automating tasks."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[fr-fr]
+name = "n8n"
+auth = "waskevin"
+descript = "A self-hosted workflow automation tool for connecting services and automating tasks."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[de-de]
+name = "n8n"
+auth = "waskevin"
+descript = "A self-hosted workflow automation tool for connecting services and automating tasks."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[it-it]
+name = "n8n"
+auth = "waskevin"
+descript = "A self-hosted workflow automation tool for connecting services and automating tasks."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[es-es]
+name = "n8n"
+auth = "waskevin"
+descript = "A self-hosted workflow automation tool for connecting services and automating tasks."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[hu-hu]
+name = "n8n"
+auth = "waskevin"
+descript = "A self-hosted workflow automation tool for connecting services and automating tasks."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ja-jp]
+name = "n8n"
+auth = "waskevin"
+descript = "A self-hosted workflow automation tool for connecting services and automating tasks."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ko-kr]
+name = "n8n"
+auth = "waskevin"
+descript = "A self-hosted workflow automation tool for connecting services and automating tasks."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[pl-pl]
+name = "n8n"
+auth = "waskevin"
+descript = "A self-hosted workflow automation tool for connecting services and automating tasks."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ru-ru]
+name = "n8n"
+auth = "waskevin"
+descript = "A self-hosted workflow automation tool for connecting services and automating tasks."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[tr-tr]
+name = "n8n"
+auth = "waskevin"
+descript = "A self-hosted workflow automation tool for connecting services and automating tasks."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[pt-pt]
+name = "n8n"
+auth = "waskevin"
+descript = "A self-hosted workflow automation tool for connecting services and automating tasks."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
