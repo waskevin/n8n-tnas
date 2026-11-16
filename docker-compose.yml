@@ -1,0 +1,21 @@
+version: "3.8"
+services:
+  n8n:
+    image: n8nio/n8n:1.120.1
+    restart: unless-stopped
+    user: "1000:1000"
+    ports:
+      - "11004:5678"
+    volumes:
+      - ./data:/home/node/.n8n
+    environment:
+      - TZ=Asia/Shanghai
+    healthcheck:
+      test: ["CMD-SHELL", "(command -v curl >/dev/null && curl -fsS http://127.0.0.1:5678/healthz) || (command -v wget >/dev/null && wget -q -O /dev/null http://127.0.0.1:5678/healthz) || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+x-app-meta:
+  web:
+    port: 11004
+    protocol: http
